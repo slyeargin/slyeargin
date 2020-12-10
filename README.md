@@ -1,5 +1,4 @@
-### Hi there 👋
-
+I'm a software engineer working for [CM Group](https://cmgroup.com/) on the [Emma](https://myemma.com) engineering team.  I currently work primarily in Python and React.  I enjoy functional programming and have written Erlang for production.
 <!--
 **slyeargin/slyeargin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
