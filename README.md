@@ -1,4 +1,4 @@
-I'm a software engineer working for [NextRoll](https://nextroll.com/) on the [RollWorks](https://www.rollworks.com/) engineering team.  I currently work primarily in Python and React.  I enjoy functional programming and have written Erlang for production.
+I'm a software engineer working for [NextRoll](https://nextroll.com/) on the [RollWorks](https://www.rollworks.com/) engineering team.  I'm currently learning Go and Typescript.  For the last five years, I've worked primarily in Python and React.  I enjoy functional programming and have written Erlang for production.
 <!--
 **slyeargin/slyeargin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
