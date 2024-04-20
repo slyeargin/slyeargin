@@ -1,4 +1,4 @@
-I'm a software engineer, currently working for [Hatch](https://hatchcare.com/). I'm learning Elixir and Elm, as well as dusting off my Rails knowledge. For the last year I worked primarily in Go and Typescript; before that, I spent most of my time in Python and React.  I enjoy functional programming and have written Erlang for production.
+I'm a software engineer, currently working for [Hatch](https://hatchcare.com/). I'm currently working primarily with Elixir/Phoenix, Ruby/Rails, Vue.js and Next.js. In previous roles I worked in Go, Python and Erlang.
 <!--
 **slyeargin/slyeargin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
