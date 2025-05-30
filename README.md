@@ -1,4 +1,4 @@
-I'm a software engineer, currently working for [Hatch](https://hatchcare.com/). I'm working primarily with Elixir/Phoenix, Ruby/Rails, Vue.js and Next.js. In previous roles I worked in Go, Python and Erlang.
+I'm a software engineer, currently working for [Hatch](https://hatchcare.com/). I'm working primarily with Next.js, TypeScript, Elixir/Phoenix, and Ruby/Rails. In previous roles I worked in Go, Python and Erlang.
 <!--
 **slyeargin/slyeargin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
